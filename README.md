@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </br>
-<h2>🙋 Oii, eu sou o Nicky</h2>
+<h2>🧑‍💻 Oiii, eu sou o Nicky</h2>
 
 <h3>Sobre mim:</h3>
 
