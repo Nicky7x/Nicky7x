@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </br>
-<h2>🧑‍💻 Oiii, eu sou o Nicky</h2>
+<h3>🧑‍💻 Oiii, eu sou o Nicky</h3>
 
-<h3>Sobre mim:</h3>
+<h4>Sobre mim:</h4>
 
 - 📚 Estudando **NodeJS** para se tornar um dev back-end.
 - 🎓 Atualmente eu estou no ensino médio e planejo cursar **Ciências da computação** ou **Sistemas da informação**.
