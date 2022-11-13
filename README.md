@@ -23,7 +23,7 @@
 <h3>💭Converse comigo:</h3>
 <img src="https://dcbadge.vercel.app/api/shield/951263301147435029" alt="meu perfil do discord" height="25em"/>
   <a href="mailto:nickygit7@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" height="20em" width="205px"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" height="25em" width="185px"/></a>
 </br>
  <h3>Informações sobre o meu perfil:</h3>
 <a href="https://github.com/Nicky7x/Nicky7x">
