@@ -24,7 +24,6 @@
   <a href="mailto:nickygit7@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" height="25em" min-width="80px"/></a>
   <img src="https://dcbadge.vercel.app/api/shield/951263301147435029" alt="meu perfil do discord" height="25em"/>
-</br>
  <h3>Informações sobre o meu perfil:</h3>
 <a href="https://github.com/Nicky7x/Nicky7x">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicky7x&theme=dracula&show_icons=true" />
