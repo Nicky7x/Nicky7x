@@ -5,7 +5,7 @@
 <h3>Sobre mim:</h3>
 
 - 📚 Estudando **NodeJS** para se tornar um dev back-end.
-- 🎓 Atualmente eu sou do ensino médio e planejo cursar **Ciências da computação** ou **Sistemas da informação**.
+- 🎓 Atualmente eu estou no ensino médio e planejo cursar **Ciências da computação** ou **Sistemas da informação**.
 - 🌱 Aprendendo mais sobre **Javascript**.
 
 <h3>Linguagens utilizadas no dia a dia:</h3>
