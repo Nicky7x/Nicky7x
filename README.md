@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
-<h3>🧑‍💻 Olá, você pode me chamar de Nicky</h3>
+<h3>🧑‍💻 Hi, you can call me Nicky</h3>
 
-<h4>Sobre mim:</h4>
+<h4>About me:</h4>
 <ul>
-<li>📚 Estudando <strong>NodeJS</strong> para se tornar um dev back-end.</li>
-<li>🎓 Atualmente eu estou no ensino médio e planejo cursar <strong>Ciências da computação</strong> ou <strong>Sistemas da informação</strong>.</li>
-<li>🌱 Aprendendo mais sobre <strong>Javascript</strong>.</li>
+<li>📚 Studying <strong>NodeJS</strong> to become a back-end dev.</li>
+<li>🎓 Currently I am in high school and plan to study <strong>Computer Science</strong> or <strong>Information Systems</strong>.</li>
+<li>🌱 Learning more about <strong>Javascript</strong>.</li>
 </ul>
 
-<h4>Habilidades:</h4>
+<h4>Skills:</h4>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -16,17 +16,17 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-<h4>Controle de versão:</h4>
+<h4>Version control:</h4>
 <p>
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h4>IDEs/editores:</h4>
+<h4>IDEs/editors:</h4>
 <p>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />
 </p>
 
-<h4>💭Converse comigo:</h4>
- <img src="https://dcbadge.vercel.app/api/shield/951263301147435029" alt="meu perfil do discord" max-height="25em" max-width="80px" />
+<h4>💭Converse with me:</h4>
+ <img src="https://dcbadge.vercel.app/api/shield/951263301147435029" alt="my discord profile" max-height="25em" max-width="80px" />
