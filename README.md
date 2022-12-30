@@ -8,7 +8,7 @@
 <li>🌱 Aprendendo mais sobre <strong>Javascript</strong>.</li>
 </ul>
 
-<h4>Linguagens e tecnologias utilizadas no dia a dia:</h4>
+<h4>Linguagens e tecnologias que eu utilizo:</h4>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-<h4>Ferramentas que não podem faltar:</h4>
+<h4>Ferramentas:</h4>
 <p>
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
