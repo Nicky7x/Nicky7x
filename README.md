@@ -30,8 +30,17 @@
 
 <h4>💭Converse with me:</h4>
  <img src="https://dcbadge.vercel.app/api/shield/951263301147435029" alt="my discord profile" max-height="25em" max-width="80px" />
+ 
+<hr/>
 
  <details>
  <summary>Most used language</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicky7x&langs_count=8" />
+</details>
+
+<details>
+  <summary>latest repositories</summary>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicky7x&repo=nicky7x">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicky7x&repo=nicky7x">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicky7x&repo=nicky7x">
 </details>
