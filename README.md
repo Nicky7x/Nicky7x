@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
+<img src="coding.gif"/>
 <h3>🧑‍💻 Hi, you can call me Nicky</h3>
 <a href="https://visits.dashroshan.com"><img src="https://visits.dashroshan.com/4QJ4XJiNYv6bkA2DwhZz?label=Views&shadow=0&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=a2c93e&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
 <h4>About me:</h4>
