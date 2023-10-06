@@ -9,24 +9,14 @@
 </ul>
 
 <h4>Skills:</h4>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,java&theme=dark" />
 
 <h4>Version control:</h4>
-<p>
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=github,git&theme=dark" />
+
 
 <h4>IDEs/editors:</h4>
-<p>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=vscode,replit,neovim&theme=dark" />
 
 <h4>💭Converse with me:</h4>
  <img src="https://dcbadge.vercel.app/api/shield/951263301147435029" alt="my discord profile" max-height="25em" max-width="80px" />
