@@ -32,6 +32,6 @@
  <img src="https://dcbadge.vercel.app/api/shield/951263301147435029" alt="my discord profile" max-height="25em" max-width="80px" />
 
  <details>
-  <summary>Projetos Recentes</summary>
-  <p>Lorem.</p>
+ <summary>Most used language</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicky7x&langs_count=8" />
 </details>
