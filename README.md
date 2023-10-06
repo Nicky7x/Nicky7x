@@ -3,9 +3,10 @@
 <h3>🧑‍💻 Hi, you can call me Nicky</h3>
 <h4>About me:</h4>
 <ul>
-<li>📚 Studying <strong>NodeJS</strong> to become a back-end dev.</li>
+<li>📚 I'm currently learning
+ <strong>Java</strong></li>
 <li>🎓 Currently I am in high school and plan to study <strong>Computer Science</strong> or <strong>Information Systems</strong>.</li>
-<li>🌱 Learning more about <strong>Javascript</strong>.</li>
+<li>🌱 Learning more about <strong>Programming</strong>.</li>
 </ul>
 
 <h4>Skills:</h4>
