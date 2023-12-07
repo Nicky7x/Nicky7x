@@ -28,12 +28,3 @@
  <summary>Most used language</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicky7x&langs_count=8" />
 </details>
-
-<details>
-  <summary>latest repositories</summary>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicky7x&repo=heimdoo-flash-command">
- 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicky7x&repo=nicky7x">
- 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicky7x&repo=nicky7x">
-</details>
