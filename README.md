@@ -20,9 +20,12 @@
 <img src="https://skillicons.dev/icons?i=vscode,replit,neovim&theme=dark" />
 
 <h4>💭Converse with me:</h4>
+
+<a href="https://discordapp.com/users/951263301147435029" target="_blank">
  
 <img src="https://dcbadge.limes.pink/api/shield/951263301147435029" alt="my discord profile" max-height="25em" max-width="80px" />
 
+</a>
 <hr/>
 
  <details>
